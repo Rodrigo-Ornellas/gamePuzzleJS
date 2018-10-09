@@ -1,0 +1,49 @@
+/* Rod Ornellas - JS Developer - www.rodster.website */
+/* ============================================ */
+
+td
+{
+  border: 1px solid black;
+  width: 100px;
+}
+
+button
+{
+  width: 110px;
+  height: 35px;
+  background-color: rgb(224, 82, 6);
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+body
+{
+  font-family: Lato, sans-serif;
+}
+
+.wrapper
+{
+  max-width: 450px;
+  margin: auto;
+  /*background-color: grey;*/
+  padding: 1% 2%;
+
+}
+
+caption
+{
+  border: 1px solid black;
+}
+
+h3
+{
+  color: red;
+  border: 1px solid black;
+  padding: 5px;
+  width: 95%;
+}
+img
+{
+  width: 100%;
+}
